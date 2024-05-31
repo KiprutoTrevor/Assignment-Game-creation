@@ -1,5 +1,3 @@
-# Assignment-Game-creation
-
 # Group Members
 S370573- Trevor Kipruto
 S373336- Nishant Bhusal
