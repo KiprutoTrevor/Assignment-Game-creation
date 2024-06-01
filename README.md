@@ -14,7 +14,7 @@ projectiles. The game has enemies, collectibles, and 3 levels.Also it  has a sco
 Step-by-step instructions on how to get a development environment running.
 
 ```bash
-git clone (https://github.com/KiprutoTrevor/Assignment-Game-creation)
-cd your-repository-directory
+git clone https://github.com/KiprutoTrevor/Assignment-Game-creation
+cd Assignment-Game-creation
 pip install -r requirements.txt
 python Assignment_3.py
